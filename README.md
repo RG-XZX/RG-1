@@ -1,2 +1,2 @@
 # RG-1
-My first repository
+This warehouse will store some of my C++ learning projects
